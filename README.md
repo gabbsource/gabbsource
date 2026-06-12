@@ -6,7 +6,10 @@
   <a href="https://gabbsource.github.io/SitePortfolio/#hero" target="_blank">
     <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Site-0078D4?style=for-the-badge&logoColor=white" height="35" alt="Portfolio Website" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_|_Game_Dev-F7DF1E?style=for-the-badge&logoColor=black" height="35" alt="Focus Area" />
+  <a href="https://erriquato.itch.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_My_Itch.io-View_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" height="35" alt="Itch.io Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_|_Godot_Dev-F7DF1E?style=for-the-badge&logoColor=black" height="35" alt="Focus Area" />
 </div>
 
 ###
@@ -17,11 +20,11 @@
 
 ## 📖 About Me
 
-Sou um desenvolvedor apaixonado por dar vida a ideias através do código, transitando entre a criação de aplicações **Full Stack** robustas na web e a arquitetura mecânica em **Digital Games**. Gosto de compreender como as ferramentas funcionam por baixo dos panos (como criar servidores usando Node.js puro) e aplicar conceitos sólidos de lógica e otimização em tudo o que construo.
+I am a passionate developer focused on bringing ideas to life through clean code, balancing robust **Full Stack web applications** with structural mechanics in **Game Development**. I enjoy building things from scratch to understand how systems work under the hood (like creating native Node.js servers without external frameworks) and applying solid programming logic to everything I build.
 
-- 🌐 Desenvolvendo interfaces limpas e APIs eficientes para a web.
-- 🎮 Criando mecânicas interativas, protótipos de jogos e modelagem 3D.
-- 🚀 Sempre buscando evoluir a arquitetura do meu código e aprender novas tecnologias.
+- 🌐 Creating responsive user interfaces and efficient backend APIs for the web.
+- 🎮 Building interactive mechanics and game prototypes using the Godot Engine.
+- 🚀 Always seeking to level up my code architecture and learn new technologies.
 
 ---
 
@@ -40,9 +43,6 @@ Sou um desenvolvedor apaixonado por dar vida a ideias através do código, trans
 ### 🎮 Game Dev & Core
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="35" alt="godot logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" style="margin-left: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="35" alt="unity logo" style="margin-left: 12px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="blender logo" style="margin-left: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo" style="margin-left: 12px;" />
 </div>
 
