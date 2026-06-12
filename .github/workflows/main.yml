@@ -1,0 +1,57 @@
+name: Generate Datas
+
+on:
+  schedule: # Roda automaticamente a cada 24 horas
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite que você rode manualmente quando quiser
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Animação da Cobrinha (Gera o snake.svg)
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: gabbsource
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Deploy da Cobrinha para a branch 'snake-output'
+      - name: Deploy Snake to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: snake-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3. Baixar os gráficos de estatísticas e linguagens
+      - name: Generate Stats Images
+        run: |
+          mkdir -p stats-dist
+          mkdir -p langs-dist
+          curl -o stats-dist/stats.svg "https://github-readme-stats.vercel.app/api?username=gabbsource&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+          curl -o langs-dist/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=gabbsource&layout=compact&langs_count=7&theme=dark"
+
+      # 4. Deploy do Gráfico de Status para a branch 'stats-output'
+      - name: Deploy Stats to Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats-output
+          build_dir: stats-dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 5. Deploy do Gráfico de Linguagens para a branch 'languages-output'
+      - name: Deploy Languages to Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: languages-output
+          build_dir: langs-dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
