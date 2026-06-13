@@ -85,7 +85,3 @@ I have a particular fondness for **low-level thinking** — like spinning up nat
 </div>
 
 ---
-
-<div align="center">
-  <sub>made with ☕ and stubbornness · <code>erriquato</code></sub>
-</div>
