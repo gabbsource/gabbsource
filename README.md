@@ -1,6 +1,6 @@
 <div>
 
-# `< Erriquato />`
+# `< GabbSource />`
 ## 👾 About Me
 
 <img align="right" width="130" src="gabrielicon" alt="Profile art" style="border-radius: 8px; margin-left: 15px;" />
