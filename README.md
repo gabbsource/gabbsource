@@ -1,87 +1,44 @@
-<div align="center">
+<div>
 
 # `< Erriquato />`
+## 👾 About Me
 
-### Full Stack Developer & Game Dev · Brazil 🇧🇷
+<img align="right" width="130" src="gabrielicon" alt="Profile art" style="border-radius: 8px; margin-left: 15px;" />
 
-*Building things from scratch to understand how they truly work.*
-
-</div>
+Hi, I'm **Gabriel** — a developer focused on building logic from the ground up. Whether it's architecting full stack web applications or designing systems in Godot, I believe the best way to truly understand code is to break it down and build it yourself.
 
 ---
 
-<img align="right" width="180" src="https://media.discordapp.net/attachments/937003234894163982/1514958843111538799/361_Sem_Titulo2_20260612084504.png?ex=6a2d42de&is=6a2bf15e&hm=d77c4d1407a5e5a2c78536dec4ff701e4905051d4653fec0dc73a4d5875dc1c2&=&format=webp&quality=lossless&width=960&height=960" alt="Profile art" />
+### Back End Developer & Game Dev
 
-## 👾 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-douglas-guedes-almeida-4562a4344/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/erriquato)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato.gabrielr4@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gabbsource/)
 
-Hi, I'm **Gabriel** — a passionate developer who loves building things from the ground up. Whether it's architecting full stack web applications or designing game systems in Godot, I believe the best way to truly understand something is to build it yourself.
 
-I have a particular fondness for **low-level thinking** — like spinning up native Node.js servers without external frameworks, just to feel the bones of how the web works.
+### 🛠️ Tech Stack
 
-```
-> currently: coding, leveling up, repeat
-```
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/stats-output/stats.svg" height="150" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/languages-output/languages.svg" height="150" alt="Top languages" />
+</p>
+
+</div>
 
 <br clear="both" />
 
 ---
 
-## 🛠️ Stack
-
-<div align="left">
-
-**Web & Frontend**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" title="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="TypeScript" title="TypeScript" style="margin-left: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" title="React" style="margin-left: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" title="HTML5" style="margin-left: 10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" title="CSS3" style="margin-left: 10px;" />
-
-**Backend & Runtime**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" title="Node.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" title="Java" style="margin-left: 10px;" />
-
-**Game Development**
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="32" alt="Godot" title="Godot" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/stats-output/stats.svg" height="155" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/languages-output/languages.svg" height="155" alt="Top languages" />
-</div>
-
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/snake-output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gabriel-douglas-guedes-almeida-4562a4344/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/gabbsource/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="30" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/erriquato">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="mailto:contato.gabrielr4@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail" />
-  </a>
-</div>
-
----
+</p>
