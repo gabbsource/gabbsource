@@ -27,10 +27,6 @@ Hi, I'm **Gabriel** — a developer focused on building logic from the ground up
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/stats-output/stats.svg" height="150" alt="GitHub stats" />
-  <img src="https://raw.githubusercontent.com/gabbsource/gabbsource/languages-output/languages.svg" height="150" alt="Top languages" />
 </p>
 
 </div>
